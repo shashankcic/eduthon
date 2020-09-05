@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Running on Repl.it
 
-Simply hit run once and start coding. Will hot reload the web view. 
+[![Run on Repl.it](https://repl.it/badge/github/shashankcic/eduthon)](https://repl.it/github/shashankcic/eduthon) 
 
 ## Running Scripts
 
