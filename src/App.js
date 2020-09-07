@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App" style={{position: 'relative'}}>
       <div style={{position: 'absolute', width: "100%"}}>
-        <Particles
+        <Particles height="100vh" width="100vw"
           params={{
             "particles": {
               "number": {
