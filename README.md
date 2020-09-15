@@ -1,5 +1,7 @@
 # Particles-js (A simple template)
 
+This is a simple template that lets you use the particles-js library in react.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Running on Repl.it
