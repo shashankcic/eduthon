@@ -5,8 +5,8 @@ import Particle from './Components/Particle';
 
 function App() {
   return (
-    <div className="App" style={{ position: 'relative' }}>
-      <div style={{ position: 'absolute', width: "100%" }}>
+    <div className="App" style={{ position: 'relative', overflow: "hidden" }}>
+      <div style={{ position: 'absolute'}}>
         <Particle />
       </div>
       <div>

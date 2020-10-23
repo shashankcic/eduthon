@@ -3,7 +3,7 @@ import Particles from 'react-particles-js';
 
 function Particle() {
   return (
-    <Particles height="98vh" width="98vw"
+    <Particles height="100vh" width="100vw"
       params={{
         "particles": {
           "number": {
